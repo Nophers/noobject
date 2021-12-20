@@ -1,0 +1,14 @@
+scala DateTime
+
+type User {
+    id:             Int!
+    name:           String!
+    email:          String!
+    password:       String!
+}
+
+type createUser {
+    user:           User!
+    token:          String!
+    verified:       boolean!
+}

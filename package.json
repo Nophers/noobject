@@ -1,0 +1,27 @@
+{
+  "name": "noobject",
+  "version": "1.2.6",
+  "description": "Project generator written in NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vKxni/noobject.git",
+  "keywords": [
+    "node",
+    "generator",
+    "project",
+    "noobject"
+  ],
+  "author": "vKxni",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  },
+  "bin": {
+    "noobject": "index.js"
+  }
+  }
+}

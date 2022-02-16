@@ -1,15 +1,15 @@
 # Noobject
 Bootstrap any type of project fast and easy!
 
-[x] JS; Discord Bot
-[x] JS; DSQL
-[x] TS; React Website
-[x] TS; APi (NestJS) 
-[x] TS; NPM Package
-[x] TS; CoC APi
-[x] TS; Prisma 
-[x] TS; JWTAuth
-[x] TS; Swagger APi
+- [x] JS; Discord Bot
+- [x] JS; DSQL
+- [x] TS; React Website
+- [x] TS; APi (NestJS) 
+- [x] TS; NPM Package
+- [x] TS; CoC APi
+- [x] TS; Prisma 
+- [x] TS; JWTAuth
+- [x] TS; Swagger APi
 
 # Installing
 Simply run 

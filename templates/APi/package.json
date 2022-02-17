@@ -1,7 +1,7 @@
 {
-  "name": "oneupgaming",
+  "name": "api",
   "version": "1.2.0",
-  "description": "",
+  "description": "APi written with Nestjs",
   "author": "",
   "private": true,
   "license": "UNLICENSED",

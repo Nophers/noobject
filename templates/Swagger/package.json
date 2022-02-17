@@ -1,8 +1,8 @@
 {
-  "name": "ddd",
-  "version": "0.0.1",
-  "description": "",
-  "author": "",
+  "name": "swagger",
+  "version": "1.0.0",
+  "description": "Simple Swagger API written in Nestjs",
+  "author": "your-name",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {

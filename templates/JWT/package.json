@@ -1,7 +1,7 @@
 {
-  "name": "test",
+  "name": "jwt",
   "version": "0.0.1",
-  "description": "",
+  "description": "JWT Auth with Nestjs",
   "author": "",
   "private": true,
   "license": "UNLICENSED",

@@ -1,6 +1,7 @@
 {
   "name": "Project",
-  "version": "0.1.0",
+  "version": "1.0.0",
+  "description": "ReactJS Website template",
   "proxy": "http://localhost:5000",
   "private": true,
   "prisma": {

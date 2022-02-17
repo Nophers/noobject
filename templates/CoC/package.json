@@ -1,5 +1,5 @@
 {
-  "name": "clashfos",
+  "name": "coc",
   "version": "1.0.0",
   "description": "Simple template to access the coc api",
   "main": "index.js",
